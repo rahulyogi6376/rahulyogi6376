@@ -6,7 +6,7 @@ I'm a passionate Front-End Developer with expertise in HTML, CSS, javascript, an
 - 💻 Actively practicing and refining coding skills, particularly in javascript algorithms and React Frameworks.
 - 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.
 
-Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://shrisejal.github.io/sejal/]
+Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)]()]
 
 ### Social Media 📡:
 - Join me on [![LinkedIn]https://www.linkedin.com/feed/
