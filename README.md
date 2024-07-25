@@ -9,7 +9,9 @@ I'm a passionate Front-End Developer with expertise in HTML, CSS, javascript, an
 Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)]()]
 
 ### Social Media 📡:
-- Join me on [![LinkedIn](www.linkedin.com/in/rahul-yogi-873657309)
+- Join me on [![LinkedIn](www.linkedin.com/in/rahul-yogi-873657309
+
+)
 
 - ## Languages and Tools 🛠
 ### Languages:
@@ -51,7 +53,7 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 
 
 <!--
-shrisejal/shrisejal is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+Rahul/Rahul is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
